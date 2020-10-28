@@ -15,7 +15,7 @@ This is a budget tracker targeting the money management field by helping you man
 
 ### Installation
 
-This app is deployed on Heroku. Once you enter the url, you can enter your credits and debits by inputing the transaction type, amount, and whether to add or subtract that amount.
+This app is deployed on Heroku. Once you enter the url, you can enter your credits and debits by inputing the transaction type, amount, and whether to add or subtract that amount. You can also use this app offline.
 
 ### Usage
 
