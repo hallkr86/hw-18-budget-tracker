@@ -10,7 +10,7 @@ This is a budget tracker targeting the money management field by helping you man
 
 ### Deployed Link
 
-**https://budget-app-khall.herokuapp.com/**
+**https://budget-tracker-jk0a.onrender.com/**
 
 
 ### Installation
